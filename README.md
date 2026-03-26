@@ -61,12 +61,11 @@ SAN-кластер.`
 ### 2.2 Разграничение данных.
 ![zadanie2](https://github.com/ottofonciceron-coder/Replication-and-scaling2-12-07-hw/blob/main/Разграничение%20данных2.png)`
 
-### 2.3Режимы работы серверов
+### 2.3Режимы работы серверов:
+`Master - Режим - Read-Write
+Slave - Режим - Read-Only`
 ![zadanie2](https://github.com/ottofonciceron-coder/Replication-and-scaling2-12-07-hw/blob/main/Режимы%20работы%20серверов.png)`
 
-`Режимы работы серверов
-Master - Режим - Read-Write
-Slave - Режим - Read-Only`
 
 ---
 
